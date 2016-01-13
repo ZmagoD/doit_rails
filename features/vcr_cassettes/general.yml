@@ -4351,4 +4351,332 @@ http_interactions:
         "tenant": "doittrust", "total_items": 71, "total_pages": 4, "version": "2015.12.09.1"}}'
     http_version: 
   recorded_at: Wed, 30 Dec 2015 20:06:51 GMT
+- request:
+    method: get
+    uri: https://csi.gstatic.com/csi?action=map2&e=10_1_0,10_2_0,11_1_0,11_4_0,11_5_0,11_7_0,11_8_0,11_9_0,11_10_0,11_11_0,11_12_0,11_13_0,11_14_U,11_15_0,11_16_0&firstmap=true&hadviewport=true&hdpi=false&libraries=places&mob=true&rt=visreq.193&s=mapsapi3&size=994x384&staticmap=false&v=2&v3v=23.3
+    body:
+      encoding: UTF-8
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko)
+        PhantomJS/1.9.8 Safari/534.34
+      Referer:
+      - http://127.0.0.1:55513/
+      Accept:
+      - "*/*"
+      Connection:
+      - Keep-Alive
+      Accept-Language:
+      - sl-SI,en,*
+      Host:
+      - csi.gstatic.com
+  response:
+    status:
+      code: 204
+      message: No Content
+    headers:
+      Access-Control-Allow-Origin:
+      - "*"
+      Date:
+      - Sun, 03 Jan 2016 14:46:32 GMT
+      Pragma:
+      - no-cache
+      Expires:
+      - Fri, 01 Jan 1990 00:00:00 GMT
+      Cache-Control:
+      - no-cache, no-store, must-revalidate
+      Last-Modified:
+      - Wed, 21 Jan 2004 19:51:30 GMT
+      Content-Type:
+      - image/gif
+      Server:
+      - Golfe2
+      Content-Length:
+      - '0'
+      Alternate-Protocol:
+      - 443:quic,p=1
+      Alt-Svc:
+      - quic=":443"; ma=604800; v="30,29,28,27,26,25"
+      Connection:
+      - close
+    body:
+      encoding: UTF-8
+      string: ''
+    http_version: 
+  recorded_at: Sun, 03 Jan 2016 14:46:33 GMT
+- request:
+    method: get
+    uri: https://maps.googleapis.com/maps/gen_204?cad=host:127.0.0.1:55513,v:23,r:1,mt:m,c:51.567508,-0.182308,sp:0.08195x0.34126,size:994x384,relsize:0.49,token:30p70fj918,src:apiv3,ts:ynirqi&ev=api_viewport&target=api
+    body:
+      encoding: UTF-8
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko)
+        PhantomJS/1.9.8 Safari/534.34
+      Referer:
+      - http://127.0.0.1:55513/
+      Accept:
+      - "*/*"
+      Connection:
+      - Keep-Alive
+      Accept-Language:
+      - sl-SI,en,*
+      Host:
+      - maps.googleapis.com
+  response:
+    status:
+      code: 204
+      message: No Content
+    headers:
+      Content-Type:
+      - image/gif
+      Date:
+      - Sun, 03 Jan 2016 14:46:33 GMT
+      Pragma:
+      - no-cache
+      Expires:
+      - Fri, 01 Jan 1990 00:00:00 GMT
+      Cache-Control:
+      - no-cache, must-revalidate
+      Server:
+      - mafe
+      Content-Length:
+      - '0'
+      X-Xss-Protection:
+      - 1; mode=block
+      X-Frame-Options:
+      - SAMEORIGIN
+      Alternate-Protocol:
+      - 443:quic,p=1
+      Alt-Svc:
+      - quic=":443"; ma=604800; v="30,29,28,27,26,25"
+      Connection:
+      - close
+    body:
+      encoding: UTF-8
+      string: ''
+    http_version: 
+  recorded_at: Sun, 03 Jan 2016 14:46:33 GMT
+- request:
+    method: get
+    uri: https://csi.gstatic.com/csi?action=map2&e=10_1_0,10_2_0,11_1_0,11_4_0,11_5_0,11_7_0,11_8_0,11_9_0,11_10_0,11_11_0,11_12_0,11_13_0,11_14_U,11_15_0,11_16_0&firstmap=true&hadviewport=true&hdpi=false&libraries=places&mob=true&rt=visres.311&s=mapsapi3&size=994x384&staticmap=false&v=2&v3v=23.3
+    body:
+      encoding: UTF-8
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko)
+        PhantomJS/1.9.8 Safari/534.34
+      Referer:
+      - http://127.0.0.1:55513/
+      Accept:
+      - "*/*"
+      Connection:
+      - Keep-Alive
+      Accept-Language:
+      - sl-SI,en,*
+      Host:
+      - csi.gstatic.com
+  response:
+    status:
+      code: 204
+      message: No Content
+    headers:
+      Access-Control-Allow-Origin:
+      - "*"
+      Date:
+      - Sun, 03 Jan 2016 14:46:33 GMT
+      Pragma:
+      - no-cache
+      Expires:
+      - Fri, 01 Jan 1990 00:00:00 GMT
+      Cache-Control:
+      - no-cache, no-store, must-revalidate
+      Last-Modified:
+      - Wed, 21 Jan 2004 19:51:30 GMT
+      Content-Type:
+      - image/gif
+      Server:
+      - Golfe2
+      Content-Length:
+      - '0'
+      Alternate-Protocol:
+      - 443:quic,p=1
+      Alt-Svc:
+      - quic=":443"; ma=604800; v="30,29,28,27,26,25"
+      Connection:
+      - close
+    body:
+      encoding: UTF-8
+      string: ''
+    http_version: 
+  recorded_at: Sun, 03 Jan 2016 14:46:33 GMT
+- request:
+    method: get
+    uri: https://maps.googleapis.com/maps/api/js/AuthenticationService.Authenticate?1shttp://127.0.0.1:55513/&callback=_xdc_._txw8p3&token=120483
+    body:
+      encoding: UTF-8
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko)
+        PhantomJS/1.9.8 Safari/534.34
+      Accept:
+      - "*/*"
+      Referer:
+      - http://127.0.0.1:55513/
+      Connection:
+      - Keep-Alive
+      Accept-Language:
+      - sl-SI,en,*
+      Host:
+      - maps.googleapis.com
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Type:
+      - text/javascript; charset=UTF-8
+      Date:
+      - Sun, 03 Jan 2016 14:46:33 GMT
+      Pragma:
+      - no-cache
+      Expires:
+      - Fri, 01 Jan 1990 00:00:00 GMT
+      Cache-Control:
+      - no-cache, must-revalidate
+      Content-Disposition:
+      - attachment
+      Server:
+      - mafe
+      X-Xss-Protection:
+      - 1; mode=block
+      X-Frame-Options:
+      - SAMEORIGIN
+      Alternate-Protocol:
+      - 443:quic,p=1
+      Alt-Svc:
+      - quic=":443"; ma=604800; v="30,29,28,27,26,25"
+      Accept-Ranges:
+      - none
+      Vary:
+      - Accept-Encoding
+      Connection:
+      - close
+    body:
+      encoding: UTF-8
+      string: "/**/_xdc_._txw8p3 && _xdc_._txw8p3( [1,null,0] )"
+    http_version: 
+  recorded_at: Sun, 03 Jan 2016 14:46:33 GMT
+- request:
+    method: get
+    uri: https://maps.googleapis.com/maps/gen_204?cad=host:127.0.0.1:55513,v:23,r:1,t:501,smni:2,src:apiv3,token:30p70fj918,ts:ynisg6&ev=api_maprft&target=api
+    body:
+      encoding: UTF-8
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko)
+        PhantomJS/1.9.8 Safari/534.34
+      Referer:
+      - http://127.0.0.1:55513/
+      Accept:
+      - "*/*"
+      Connection:
+      - Keep-Alive
+      Accept-Language:
+      - sl-SI,en,*
+      Host:
+      - maps.googleapis.com
+  response:
+    status:
+      code: 204
+      message: No Content
+    headers:
+      Content-Type:
+      - image/gif
+      Date:
+      - Sun, 03 Jan 2016 14:46:33 GMT
+      Pragma:
+      - no-cache
+      Expires:
+      - Fri, 01 Jan 1990 00:00:00 GMT
+      Cache-Control:
+      - no-cache, must-revalidate
+      Server:
+      - mafe
+      Content-Length:
+      - '0'
+      X-Xss-Protection:
+      - 1; mode=block
+      X-Frame-Options:
+      - SAMEORIGIN
+      Alternate-Protocol:
+      - 443:quic,p=1
+      Alt-Svc:
+      - quic=":443"; ma=604800; v="30,29,28,27,26,25"
+      Connection:
+      - close
+    body:
+      encoding: UTF-8
+      string: ''
+    http_version: 
+  recorded_at: Sun, 03 Jan 2016 14:46:33 GMT
+- request:
+    method: get
+    uri: https://csi.gstatic.com/csi?action=map2&e=10_1_0,10_2_0,11_1_0,11_4_0,11_5_0,11_7_0,11_8_0,11_9_0,11_10_0,11_11_0,11_12_0,11_13_0,11_14_U,11_15_0,11_16_0&firstmap=true&hadviewport=true&hdpi=false&libraries=places&mob=true&rt=tilesloaded.823,allpixels.823&s=mapsapi3&size=994x384&staticmap=false&v=2&v3v=23.3
+    body:
+      encoding: UTF-8
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko)
+        PhantomJS/1.9.8 Safari/534.34
+      Referer:
+      - http://127.0.0.1:55513/
+      Accept:
+      - "*/*"
+      Connection:
+      - Keep-Alive
+      Accept-Language:
+      - sl-SI,en,*
+      Host:
+      - csi.gstatic.com
+  response:
+    status:
+      code: 204
+      message: No Content
+    headers:
+      Access-Control-Allow-Origin:
+      - "*"
+      Date:
+      - Sun, 03 Jan 2016 14:46:33 GMT
+      Pragma:
+      - no-cache
+      Expires:
+      - Fri, 01 Jan 1990 00:00:00 GMT
+      Cache-Control:
+      - no-cache, no-store, must-revalidate
+      Last-Modified:
+      - Wed, 21 Jan 2004 19:51:30 GMT
+      Content-Type:
+      - image/gif
+      Server:
+      - Golfe2
+      Content-Length:
+      - '0'
+      Alternate-Protocol:
+      - 443:quic,p=1
+      Alt-Svc:
+      - quic=":443"; ma=604800; v="30,29,28,27,26,25"
+      Connection:
+      - close
+    body:
+      encoding: UTF-8
+      string: ''
+    http_version: 
+  recorded_at: Sun, 03 Jan 2016 14:46:33 GMT
 recorded_with: VCR 3.0.1
